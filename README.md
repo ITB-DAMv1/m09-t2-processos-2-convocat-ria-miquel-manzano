@@ -89,6 +89,28 @@ c. De la següent llista d’aplicacions, indica quin tipus de programació fari
 
 ---
 
+### **Exercici 4 – Llistat de processos i fils (4 punts)**
+
+**Solució:**  
+El codi d’aquest exercici es troba a la solucio del main [`Exercici4/Main.cs`](./M09.T2.Activities.MiquelManzano/Ex4/Program.cs).  
+Implementa l’ús de la classe `Process` per llegir els processos i fils, i guarda el resultat en un `.txt`.
+
+---
+
+### **Exercici 5 – Càrrega de dispositius amb bateria (12 punts)**
+
+El codi complet per a aquest exercici es troba a la solucio del main [`Exercici5/Main.cs`](./M09.T2.Activities.MiquelManzano/M09.T2.Activities.MiquelManzano/Program.cs).  
+Inclou dues simulacions completes amb execució paral·lela dels dispositius.
+
+---
+
+### **Exercici 6 – Producció d’un pastís: seqüencial vs paral·lel (12 punts)**
+**Solució:**  
+El codi complet d’aquest exercici es troba a [`Exercici6/Main.cs`](./M09.T2.Activities.MiquelManzano/Ex6/Program.cs).  
+Conté les dues simulacions (seqüencial i paral·lela) i mostra el temps total de cada una.
+
+---
+
 ### **Exercici 7 – Revisió de codi amb Threads (4 punts)**
 
 **a. Errors detectats:**
